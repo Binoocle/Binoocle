@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Binoocle
-- 👀 We are a startup working in Mind Brain Science, Data Science and Artificial Intelligenc
+- 👀 We are a startup working in Mind Brain Science, Data Science and Artificial Intelligence
 - 📫 How to reach us ...info@binoocle.com
 
 <!---
